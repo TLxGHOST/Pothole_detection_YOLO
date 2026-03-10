@@ -19,7 +19,7 @@ Three different models were trained, with the YOLOv8 nano model providing the mo
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pothole-detection.git
+   git clone https://github.com/TLxGHOST/pothole-detection.git
 2. Change to the project directory
     ```bash
    cd pothole-detection
@@ -35,8 +35,8 @@ If you would like to contribute to this project, please create a pull request.
 This project is licensed under the MIT License.
 
 ## Authors
- * [Anshu05112004](https://github.com/Anshu05112004/) 
+ * [Anshu05112004](https://github.com/TLxGHOST/) 
  * [Grishm](https://github.com/2228115grishm/)
 
-_Feel free to modify any sections according to your specific requirements and to include additional details if necessary._
+
 
